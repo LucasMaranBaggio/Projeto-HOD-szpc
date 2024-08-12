@@ -12,6 +12,10 @@
         align-items: center;
     }
 
+    .informacoes H1 {
+        padding-top: 10vh;
+    }
+
     .informacoes .descricao {
         width: 60%;
         text-align: center;
